@@ -29,9 +29,9 @@
 </div>
 <div align="center">
   <a href="https://github.com/ka1mak/GoogleKeep">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ka1mak&repo=GoogleKeep" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ka1mak&repo=GoogleKeep&theme=dark" />
   </a>
   <a href="https://github.com/ka1mak/Quiz-App">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ka1mak&repo=Quiz-App" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ka1mak&repo=Quiz-App&theme=dark" />
   </a>
 </div>
