@@ -28,10 +28,10 @@
   <a aria-label="Chat on Telegram" href="https://wa.me/996776709190"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </div>
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+  <a href="https://github.com/ka1mak/GoogleKeep">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ka1mak&repo=GoogleKeep" />
+  </a>
+  <a href="https://github.com/ka1mak/Quiz-App">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ka1mak&repo=Quiz-App" />
+  </a>
 </div>
