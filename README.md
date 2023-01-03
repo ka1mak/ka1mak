@@ -28,5 +28,5 @@
   <a aria-label="Chat on Telegram" href="https://wa.me/996776709190"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </div>
 <div align="center">
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ka1mak)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </div>
