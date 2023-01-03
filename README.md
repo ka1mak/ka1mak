@@ -36,4 +36,6 @@
   <a aria-label="Chat on WhatsApp" href="https://telegram.me/ka1mak"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a aria-label="Chat on Telegram" href="https://wa.me/996776709190"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ka1mak&layout=compact" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ka1mak&layout=compact" />
+</div>
