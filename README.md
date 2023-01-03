@@ -22,11 +22,6 @@
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" alt="ChakraUI" />
 </div>
-<h1 align="center">Get in touch:</h1>
-<div align="center">
-  <a aria-label="Chat on WhatsApp" href="https://telegram.me/ka1mak"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a aria-label="Chat on Telegram" href="https://wa.me/996776709190"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-</div>
 <h1 align="center">My repository:</h1>
 <div align="center">
   <a href="https://github.com/ka1mak/GoogleKeep">
@@ -36,3 +31,10 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ka1mak&repo=Quiz-App&theme=dark" />
   </a>
 </div>
+<h1 align="center">Get in touch:</h1>
+<div align="center">
+  <a aria-label="Chat on WhatsApp" href="https://telegram.me/ka1mak"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a aria-label="Chat on Telegram" href="https://wa.me/996776709190"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+</div>
+
+<img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)" />
