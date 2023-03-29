@@ -30,6 +30,9 @@
   <a href="https://github.com/ka1mak/Quiz-App">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ka1mak&repo=Quiz-App&theme=dark" />
   </a>
+  <a href="https://github.com/ka1mak/beer-shop">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ka1mak&repo=beer-shop&theme=dark" />
+  </a>
 </div>
 <h1 align="center">Get in touch:</h1>
 <div align="center">
