@@ -22,19 +22,7 @@
   <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" alt="MUI" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" alt="ChakraUI" />
-</div>
-<h1 align="center">My repository:</h1>
-<div align="center">
-  <a href="https://github.com/ka1mak/todo-list">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ka1mak&repo=todo-list&theme=dark" />
-  </a>
-  <a href="https://github.com/ka1mak/Quiz-App">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ka1mak&repo=Quiz-App&theme=dark" />
-  </a>
-  <a href="https://github.com/ka1mak/beer-shop">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ka1mak&repo=beer-shop&theme=dark" />
-  </a>
-</div>
+</div
 <h1 align="center">Get in touch:</h1>
 <div align="center">
   <a aria-label="Chat on WhatsApp" href="https://telegram.me/ka1mak"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
